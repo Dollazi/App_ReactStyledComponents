@@ -1,4 +1,4 @@
-# Application_-ReactStyledComponents
+# Application_ReactStyledComponents
  Implementation study of Styled Components
  
  About the case study
